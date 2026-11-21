@@ -1,0 +1,6 @@
+{
+  "name": "Temir Front — 3D Taktik FPS",
+  "description": "Counter-Strike ilhomida yaratilgan 3D taktik birinchi shaxs otishma o'yini: 10 ta xarita, 10 ta qahramon, qurollar ombori va sun'iy intellekt raqiblar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
